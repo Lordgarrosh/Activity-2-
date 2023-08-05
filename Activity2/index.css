@@ -1,0 +1,16 @@
+.contact-container{
+background-color: aliceblue;
+border-radius: 1mm;
+border: 1mm solid rgb(210, 183, 183);
+width: 15.7in;
+
+align-items: center;
+}
+
+
+
+.contact-container input{
+    height: 1cm;
+    
+    width: 15in;
+}
